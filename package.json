@@ -1,0 +1,25 @@
+{
+  "name": "react-custom-hooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sixrods/react-custom-hooks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sixrods/react-custom-hooks/issues"
+  },
+  "homepage": "https://github.com/sixrods/react-custom-hooks#readme",
+  "dependencies": {
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
